@@ -1,14 +1,6 @@
-class helloorld {
+class helloworld {
     public static void main(String[] args) {
-        int y=5;
-        y=6;
-        if(x====5)
-        {
-            
-        }
-        else
-        {
-        }
+        i=5;
         System.out.println("Hello, World!"); 
     }
 }
