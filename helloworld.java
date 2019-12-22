@@ -1,8 +1,8 @@
 class helloworld {
     public static void main(String[] args) {
         int y=5;
-        int y=6;
-        if(x=5)
+        y=6;
+        if(x====5)
         {
             
         }
